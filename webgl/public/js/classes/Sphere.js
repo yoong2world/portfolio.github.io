@@ -47,7 +47,7 @@ export default class Sphere{
         } )
     );
 
-    let materials = [];
+    //let materials = [];
 
     let arrImages = [
       'armypedia.png',

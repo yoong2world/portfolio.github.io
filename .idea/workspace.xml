@@ -68,10 +68,10 @@
       <file leaf-file-name="Sphere.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/webgl/public/js/classes/Sphere.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="68" selection-start-line="0" selection-start-column="68" selection-end-line="0" selection-end-column="68" />
+            <state vertical-scroll-proportion="0.8207624">
+              <caret line="50" column="0" selection-start-line="50" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
               <folding>
-                <element signature="e#1359#3555#0" expanded="false" />
+                <element signature="e#1361#3557#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -563,12 +563,12 @@
       <workItem from="1607256647419" duration="1383000" />
       <workItem from="1607267431166" duration="27000" />
       <workItem from="1607269907939" duration="24000" />
-      <workItem from="1607270476538" duration="1768000" />
+      <workItem from="1607270476538" duration="1822000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3202000" />
+    <option name="totallyTimeSpent" value="3256000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="-11" width="3862" height="2122" extended-state="6" />
@@ -749,10 +749,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/webgl/public/js/classes/Sphere.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="68" selection-start-line="0" selection-start-column="68" selection-end-line="0" selection-end-column="68" />
+        <state vertical-scroll-proportion="0.8207624">
+          <caret line="50" column="0" selection-start-line="50" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
           <folding>
-            <element signature="e#1359#3555#0" expanded="false" />
+            <element signature="e#1361#3557#0" expanded="false" />
           </folding>
         </state>
       </provider>
