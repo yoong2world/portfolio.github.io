@@ -3,8 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="6d9c9ea0-39ca-42d2-90b4-f557f06d2176" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/yoong2world" afterPath="$PROJECT_DIR$/yoong2world" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webgl/public/js/classes/Sphere.js" afterPath="$PROJECT_DIR$/webgl/public/js/classes/Sphere.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webgl/public/js/utils/animator.js" afterPath="$PROJECT_DIR$/webgl/public/js/utils/animator.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webgl/public/js/classes/WebGL.js" afterPath="$PROJECT_DIR$/webgl/public/js/classes/WebGL.js" />
     </list>
     <ignored path="ydy.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -88,11 +87,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="WebGL.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="WebGL.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/webgl/public/js/classes/WebGL.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-2.4">
-              <caret line="6" column="68" selection-start-line="6" selection-start-column="68" selection-end-line="6" selection-end-column="68" />
+            <state vertical-scroll-proportion="0.15050167">
+              <caret line="6" column="76" selection-start-line="6" selection-start-column="76" selection-end-line="6" selection-end-column="76" />
               <folding />
             </state>
           </provider>
@@ -108,11 +107,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="animator.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="animator.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/webgl/public/js/utils/animator.js">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="63" selection-start-line="0" selection-start-column="63" selection-end-line="0" selection-end-column="63" />
+              <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -146,12 +145,12 @@
         <option value="$PROJECT_DIR$/webgl/public/js/index.js" />
         <option value="$PROJECT_DIR$/webgl/public/js/classes/_bg.js" />
         <option value="$PROJECT_DIR$/webgl/public/js/classes/Background.js" />
-        <option value="$PROJECT_DIR$/webgl/public/js/classes/WebGL.js" />
         <option value="$PROJECT_DIR$/webgl/public/js/utils/helper.js" />
-        <option value="$PROJECT_DIR$/webgl/public/js/utils/loader.js" />
         <option value="$PROJECT_DIR$/webgl/views/index.html" />
         <option value="$PROJECT_DIR$/webgl/public/js/classes/Sphere.js" />
         <option value="$PROJECT_DIR$/webgl/public/js/utils/animator.js" />
+        <option value="$PROJECT_DIR$/webgl/public/js/utils/loader.js" />
+        <option value="$PROJECT_DIR$/webgl/public/js/classes/WebGL.js" />
       </list>
     </option>
   </component>
@@ -574,12 +573,12 @@
       <workItem from="1607256647419" duration="1383000" />
       <workItem from="1607267431166" duration="27000" />
       <workItem from="1607269907939" duration="24000" />
-      <workItem from="1607270476538" duration="1472000" />
+      <workItem from="1607270476538" duration="1615000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2906000" />
+    <option name="totallyTimeSpent" value="3049000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="-11" width="3862" height="2122" extended-state="6" />
@@ -592,10 +591,11 @@
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32957458" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32957458" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19196193" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32957458" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -606,7 +606,6 @@
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -686,18 +685,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/webgl/public/js/classes/_bg.js">
+    <entry file="file://$PROJECT_DIR$/webgl/views/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="3" column="69" selection-start-line="3" selection-start-column="69" selection-end-line="3" selection-end-column="69" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/webgl/public/js/classes/addFaceTexture.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state vertical-scroll-proportion="-6.991228">
+          <caret line="76" column="7" selection-start-line="76" selection-start-column="7" selection-end-line="76" selection-end-column="7" />
           <folding />
         </state>
       </provider>
@@ -710,10 +701,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/webgl/views/index.html">
+    <entry file="file://$PROJECT_DIR$/webgl/public/js/classes/addFaceTexture.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-6.991228">
-          <caret line="76" column="7" selection-start-line="76" selection-start-column="7" selection-end-line="76" selection-end-column="7" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webgl/public/js/classes/_bg.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="3" column="69" selection-start-line="3" selection-start-column="69" selection-end-line="3" selection-end-column="69" />
           <folding />
         </state>
       </provider>
@@ -728,10 +727,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/webgl/public/js/classes/WebGL.js">
+    <entry file="file://$PROJECT_DIR$/webgl/public/js/utils/loader.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-2.4">
-          <caret line="6" column="68" selection-start-line="6" selection-start-column="68" selection-end-line="6" selection-end-column="68" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="1" column="72" selection-start-line="1" selection-start-column="72" selection-end-line="1" selection-end-column="72" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webgl/public/js/utils/animator.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
           <folding />
         </state>
       </provider>
@@ -744,18 +751,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/webgl/public/js/utils/loader.js">
+    <entry file="file://$PROJECT_DIR$/webgl/public/js/classes/WebGL.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="1" column="72" selection-start-line="1" selection-start-column="72" selection-end-line="1" selection-end-column="72" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/webgl/public/js/utils/animator.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="63" selection-start-line="0" selection-start-column="63" selection-end-line="0" selection-end-column="63" />
+        <state vertical-scroll-proportion="0.15050167">
+          <caret line="6" column="76" selection-start-line="6" selection-start-column="76" selection-end-line="6" selection-end-column="76" />
           <folding />
         </state>
       </provider>

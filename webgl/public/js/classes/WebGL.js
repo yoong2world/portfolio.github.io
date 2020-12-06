@@ -3,8 +3,8 @@ import * as THREE from '//yoong2world.github.io/ydy/webgl/public/js/vendor/three
 import { OrbitControls } from '//yoong2world.github.io/ydy/webgl/public/js/vendor/threejs/examples/jsm/controls/OrbitControls.js'
 
 //our objects
-import Sphere from '//yoong2world.github.io/ydy/webgl/public/js/Sphere.js'
-import Background from '//yoong2world.github.io/ydy/webgl/public/js/Background.js'
+import Sphere from '//yoong2world.github.io/ydy/webgl/public/js/classes/Sphere.js'
+import Background from '//yoong2world.github.io/ydy/webgl/public/js/classes/Background.js'
 
 
 //helpers
