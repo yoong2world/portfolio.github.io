@@ -3,13 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="6d9c9ea0-39ca-42d2-90b4-f557f06d2176" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/yoong2world" afterPath="$PROJECT_DIR$/yoong2world" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webgl/public/js/classes/Background.js" afterPath="$PROJECT_DIR$/webgl/public/js/classes/Background.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webgl/public/js/classes/Sphere.js" afterPath="$PROJECT_DIR$/webgl/public/js/classes/Sphere.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webgl/public/js/classes/WebGL.js" afterPath="$PROJECT_DIR$/webgl/public/js/classes/WebGL.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webgl/public/js/classes/_bg.js" afterPath="$PROJECT_DIR$/webgl/public/js/classes/_bg.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webgl/public/js/utils/helper.js" afterPath="$PROJECT_DIR$/webgl/public/js/utils/helper.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webgl/public/js/index.js" afterPath="$PROJECT_DIR$/webgl/public/js/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webgl/public/js/utils/loader.js" afterPath="$PROJECT_DIR$/webgl/public/js/utils/loader.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webgl/views/index.html" afterPath="$PROJECT_DIR$/webgl/views/index.html" />
     </list>
     <ignored path="ydy.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -44,15 +39,9 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/webgl/views/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-5.6754384">
-              <caret line="67" column="18" selection-start-line="67" selection-start-column="18" selection-end-line="67" selection-end-column="18" />
-              <caret line="68" column="30" selection-start-line="68" selection-start-column="30" selection-end-line="68" selection-end-column="30" />
-              <caret line="69" column="87" selection-start-line="69" selection-start-column="87" selection-end-line="69" selection-end-column="87" />
-              <caret line="70" column="31" selection-start-line="70" selection-start-column="31" selection-end-line="70" selection-end-column="31" />
-              <caret line="71" column="31" selection-start-line="71" selection-start-column="31" selection-end-line="71" selection-end-column="31" />
-              <folding>
-                <element signature="n#style#0;n#section#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
+            <state vertical-scroll-proportion="-6.991228">
+              <caret line="76" column="7" selection-start-line="76" selection-start-column="7" selection-end-line="76" selection-end-column="7" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -87,12 +76,14 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Sphere.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Sphere.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/webgl/public/js/classes/Sphere.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="68" selection-start-line="0" selection-start-column="68" selection-end-line="0" selection-end-column="68" />
-              <folding />
+            <state vertical-scroll-proportion="0.95279306">
+              <caret line="353" column="31" selection-start-line="353" selection-start-column="31" selection-end-line="353" selection-end-column="31" />
+              <folding>
+                <element signature="e#4814#7010#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -127,10 +118,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="loader.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="loader.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/webgl/public/js/utils/loader.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.023603462">
+            <state vertical-scroll-proportion="0.0">
               <caret line="1" column="72" selection-start-line="1" selection-start-column="72" selection-end-line="1" selection-end-column="72" />
               <folding />
             </state>
@@ -153,14 +144,14 @@
         <option value="$PROJECT_DIR$/yoong2world/views/index.html" />
         <option value="$PROJECT_DIR$/portfolio/index.html" />
         <option value="$PROJECT_DIR$/webgl/public/js/utils/animator.js" />
-        <option value="$PROJECT_DIR$/webgl/views/index.html" />
         <option value="$PROJECT_DIR$/webgl/public/js/index.js" />
         <option value="$PROJECT_DIR$/webgl/public/js/classes/_bg.js" />
         <option value="$PROJECT_DIR$/webgl/public/js/classes/Background.js" />
-        <option value="$PROJECT_DIR$/webgl/public/js/classes/Sphere.js" />
         <option value="$PROJECT_DIR$/webgl/public/js/classes/WebGL.js" />
         <option value="$PROJECT_DIR$/webgl/public/js/utils/helper.js" />
         <option value="$PROJECT_DIR$/webgl/public/js/utils/loader.js" />
+        <option value="$PROJECT_DIR$/webgl/views/index.html" />
+        <option value="$PROJECT_DIR$/webgl/public/js/classes/Sphere.js" />
       </list>
     </option>
   </component>
@@ -331,7 +322,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../yoong2world" />
     <property name="WebServerToolWindowFactoryState" value="false" />
   </component>
   <component name="RunManager">
@@ -431,12 +422,12 @@
       <workItem from="1607256647419" duration="1383000" />
       <workItem from="1607267431166" duration="27000" />
       <workItem from="1607269907939" duration="24000" />
-      <workItem from="1607270476538" duration="1138000" />
+      <workItem from="1607270476538" duration="1233000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2572000" />
+    <option name="totallyTimeSpent" value="2667000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="-11" width="3862" height="2122" extended-state="6" />
@@ -543,20 +534,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/webgl/views/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.6754384">
-          <caret line="67" column="18" selection-start-line="67" selection-start-column="18" selection-end-line="67" selection-end-column="18" />
-          <caret line="68" column="30" selection-start-line="68" selection-start-column="30" selection-end-line="68" selection-end-column="30" />
-          <caret line="69" column="87" selection-start-line="69" selection-start-column="87" selection-end-line="69" selection-end-column="87" />
-          <caret line="70" column="31" selection-start-line="70" selection-start-column="31" selection-end-line="70" selection-end-column="31" />
-          <caret line="71" column="31" selection-start-line="71" selection-start-column="31" selection-end-line="71" selection-end-column="31" />
-          <folding>
-            <element signature="n#style#0;n#section#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/webgl/public/js/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -589,14 +566,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/webgl/public/js/classes/Sphere.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="68" selection-start-line="0" selection-start-column="68" selection-end-line="0" selection-end-column="68" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/webgl/public/js/classes/WebGL.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-2.4">
@@ -615,9 +584,27 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/webgl/public/js/utils/loader.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.023603462">
+        <state vertical-scroll-proportion="0.0">
           <caret line="1" column="72" selection-start-line="1" selection-start-column="72" selection-end-line="1" selection-end-column="72" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webgl/views/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-6.991228">
+          <caret line="76" column="7" selection-start-line="76" selection-start-column="7" selection-end-line="76" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webgl/public/js/classes/Sphere.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.95279306">
+          <caret line="353" column="31" selection-start-line="353" selection-start-column="31" selection-end-line="353" selection-end-column="31" />
+          <folding>
+            <element signature="e#4814#7010#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
