@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="6d9c9ea0-39ca-42d2-90b4-f557f06d2176" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/yoong2world" afterPath="$PROJECT_DIR$/yoong2world" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webgl/views/index.html" afterPath="$PROJECT_DIR$/webgl/views/index.html" />
     </list>
     <ignored path="ydy.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -24,11 +25,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/webgl/views/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-6.991228">
-              <caret line="76" column="7" selection-start-line="76" selection-start-column="7" selection-end-line="76" selection-end-column="7" />
+            <state vertical-scroll-proportion="0.1758794">
+              <caret line="31" column="84" selection-start-line="31" selection-start-column="70" selection-end-line="31" selection-end-column="84" />
               <folding />
             </state>
           </provider>
@@ -64,10 +65,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Sphere.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Sphere.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/webgl/public/js/classes/Sphere.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.23682076">
+            <state vertical-scroll-proportion="-7.6842103">
               <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
               <folding>
                 <element signature="e#1361#3557#0" expanded="false" />
@@ -135,11 +136,11 @@
         <option value="$PROJECT_DIR$/webgl/public/js/classes/_bg.js" />
         <option value="$PROJECT_DIR$/webgl/public/js/classes/Background.js" />
         <option value="$PROJECT_DIR$/webgl/public/js/utils/helper.js" />
-        <option value="$PROJECT_DIR$/webgl/views/index.html" />
         <option value="$PROJECT_DIR$/webgl/public/js/utils/animator.js" />
         <option value="$PROJECT_DIR$/webgl/public/js/utils/loader.js" />
         <option value="$PROJECT_DIR$/webgl/public/js/classes/WebGL.js" />
         <option value="$PROJECT_DIR$/webgl/public/js/classes/Sphere.js" />
+        <option value="$PROJECT_DIR$/webgl/views/index.html" />
       </list>
     </option>
   </component>
@@ -562,12 +563,12 @@
       <workItem from="1607256647419" duration="1383000" />
       <workItem from="1607267431166" duration="27000" />
       <workItem from="1607269907939" duration="24000" />
-      <workItem from="1607270476538" duration="1949000" />
+      <workItem from="1607270476538" duration="2056000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3383000" />
+    <option name="totallyTimeSpent" value="3490000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="-11" width="3862" height="2122" extended-state="6" />
@@ -674,14 +675,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/webgl/views/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-6.991228">
-          <caret line="76" column="7" selection-start-line="76" selection-start-column="7" selection-end-line="76" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/webgl/public/js/classes/Background.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -748,11 +741,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/webgl/public/js/classes/Sphere.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.23682076">
+        <state vertical-scroll-proportion="-7.6842103">
           <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
           <folding>
             <element signature="e#1361#3557#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webgl/views/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.1758794">
+          <caret line="31" column="84" selection-start-line="31" selection-start-column="70" selection-end-line="31" selection-end-column="84" />
+          <folding />
         </state>
       </provider>
     </entry>
