@@ -1,7 +1,7 @@
-import * as THREE from './vendor/threejs/build/three.module.js'
-import { WebGL } from '/js/classes/WebGL.js'
+import * as THREE from '../vendor/threejs/build/three.module.js'
+import { WebGL } from './WebGL.js'
 
-import * as HELPER from '/js/utils/helper.js'
+import * as HELPER from '../utils/helper.js'
 
 (function() {
   'use strict';

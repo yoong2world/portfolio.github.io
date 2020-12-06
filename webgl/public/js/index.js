@@ -1,4 +1,4 @@
-import WebGL from '/js/classes/WebGL.js'
+import WebGL from './js/classes/WebGL.js'
 
 
 let webgl = new WebGL()

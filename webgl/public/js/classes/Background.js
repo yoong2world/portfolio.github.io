@@ -1,6 +1,6 @@
-import * as THREE from '/js/vendor/three/build/three.module.js'
+import * as THREE from '../vendor/three/build/three.module.js'
 
-import * as HELPER from '/js/utils/helper.js'
+import * as HELPER from '../utils/helper.js'
 
 export default class Background{
   constructor(scene){
