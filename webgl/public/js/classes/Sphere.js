@@ -1,4 +1,4 @@
-import * as THREE from '../vendor/three/build/three.module.js'
+import * as THREE from '//yoong2world.github.io/ydy/webgl/public/js/vendor/three/build/three.module.js'
 
 export default class Sphere{
   constructor(scene){

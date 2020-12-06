@@ -1,5 +1,5 @@
-import * as THREE from '../vendor/three/build/three.module.js'
-import { GLTFLoader } from '../vendor/three/examples/jsm/loaders/GLTFLoader.js'
+import * as THREE from '//yoong2world.github.io/ydy/webgl/public/js/vendor/three/build/three.module.js'
+import { GLTFLoader } from '//yoong2world.github.io/ydy/webgl/public/js/vendor/three/examples/jsm/loaders/GLTFLoader.js'
 
 export function loadShaders(manager) {
   let shaderFiles = {

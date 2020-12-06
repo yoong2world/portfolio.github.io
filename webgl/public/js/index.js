@@ -1,4 +1,4 @@
-import WebGL from './classes/WebGL.js'
+import WebGL from '//yoong2world.github.io/ydy/webgl/public/js/classes/WebGL.js'
 
 
 let webgl = new WebGL()

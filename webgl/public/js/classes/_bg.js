@@ -1,7 +1,7 @@
-import * as THREE from '../vendor/threejs/build/three.module.js'
-import { WebGL } from './WebGL.js'
+import * as THREE from '//yoong2world.github.io/ydy/webgl/public/js/vendor/threejs/build/three.module.js'
+import { WebGL } from '//yoong2world.github.io/ydy/webgl/public/js/WebGL.js'
 
-import * as HELPER from '../utils/helper.js'
+import * as HELPER from '//yoong2world.github.io/ydy/webgl/public/js/utils/helper.js'
 
 (function() {
   'use strict';

@@ -1,15 +1,15 @@
 //three js
-import * as THREE from '../vendor/three/build/three.module.js'
-import { OrbitControls } from '../vendor/threejs/examples/jsm/controls/OrbitControls.js'
+import * as THREE from '//yoong2world.github.io/ydy/webgl/public/js/vendor/three/build/three.module.js'
+import { OrbitControls } from '//yoong2world.github.io/ydy/webgl/public/js/vendor/threejs/examples/jsm/controls/OrbitControls.js'
 
 //our objects
-import Sphere from './Sphere.js'
-import Background from './Background.js'
+import Sphere from '//yoong2world.github.io/ydy/webgl/public/js/Sphere.js'
+import Background from '//yoong2world.github.io/ydy/webgl/public/js/Background.js'
 
 
 //helpers
-import { GUI } from '../vendor/three/examples/jsm/libs/dat.gui.module.js'
-import Stats from '../vendor/three/examples/jsm/libs/stats.module.js'
+import { GUI } from '//yoong2world.github.io/ydy/webgl/public/js/vendor/three/examples/jsm/libs/dat.gui.module.js'
+import Stats from '//yoong2world.github.io/ydy/webgl/public/js/vendor/three/examples/jsm/libs/stats.module.js'
 
 export default class WebGL{
   constructor(option){
