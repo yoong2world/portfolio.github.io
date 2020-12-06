@@ -14,155 +14,6 @@ export default class Sphere{
 
     //create sphere mesh
     t.sphereGeometry = new THREE.SphereGeometry(
-      1, // radius -- default 1
-      // 25, // widthSegments -- default 8
-      // 13, // heightSegments -- default 6
-      8, // widthSegments -- default 8
-      6, // heightSegments -- default 6
-      0, // phiStart -- default 0
-      Math.PI * 2, // phiLength -- default Math.PI * 2
-      0, // thetaStart -- default 0
-      Math.PI // thetaLength -- default Math.PI
-    )
-
-
-
-    
-    // Geometry
-    t.geometry = new THREE.SphereGeometry(1, 8, 6);
-    
-    t.loader = new THREE.TextureLoader
-    t.loader.crossOrigin = ''
-    t.loader.setPath( '/img/work/' );
-
-    // t.sphereMesh = new THREE.Mesh(
-    //   t.sphereGeometry,
-    //   new THREE.MeshPhongMaterial( {
-    //       color: 0x156289,
-    //       emissive: 0x072534,
-    //       side: THREE.DoubleSide,
-    //       flatShading: true,
-    //       // map: this.loader.load('/img/work/doosan.png'),
-    //       // bumpMap: this.loader.load('/img/work/doosan.png'),
-    //   } )
-    // )
-
-    let materials = []
-
-    let arrImages = [
-      'armypedia.png',
-      'doosanemerging.png',
-      'doosaninfra.png',
-      'doosan.png',
-      'hankook.png',
-      'jung.png',
-      'kcs.png',
-      'lifeplus.png',
-      'armypedia.png',
-      'doosanemerging.png',
-      'doosaninfra.png',
-      'doosan.png',
-      'hankook.png',
-      'jung.png',
-      'kcs.png',
-      'lifeplus.png',
-      'armypedia.png',
-      'doosanemerging.png',
-      'doosaninfra.png',
-      'doosan.png',
-      'hankook.png',
-      'jung.png',
-      'kcs.png',
-      'lifeplus.png',
-      'armypedia.png',
-      'doosanemerging.png',
-      'doosaninfra.png',
-      'doosan.png',
-      'hankook.png',
-      'jung.png',
-      'kcs.png',
-      'lifeplus.png',
-      'armypedia.png',
-      'doosanemerging.png',
-      'doosaninfra.png',
-      'doosan.png',
-      'hankook.png',
-      'jung.png',
-      'kcs.png',
-      'lifeplus.png',
-      'armypedia.png',
-      'doosanemerging.png',
-      'doosaninfra.png',
-      'doosan.png',
-      'hankook.png',
-      'jung.png',
-      'kcs.png',
-      'lifeplus.png',
-      'armypedia.png',
-      'doosanemerging.png',
-      'doosaninfra.png',
-      'doosan.png',
-      'hankook.png',
-      'jung.png',
-      'kcs.png',
-      'lifeplus.png',
-      'lifeplus.png',
-      'armypedia.png',
-      'doosanemerging.png',
-      'doosaninfra.png',
-      'doosan.png',
-      'hankook.png',
-      'jung.png',
-      'kcs.png',
-      'lifeplus.png',
-      'armypedia.png',
-      'doosanemerging.png',
-      'doosaninfra.png',
-      'doosan.png',
-      'hankook.png',
-      'jung.png',
-      'kcs.png',
-      'lifeplus.png',
-      'jung.png',
-      'kcs.png',
-      'lifeplus.png',
-      'armypedia.png',
-      'doosanemerging.png',
-      'doosaninfra.png',
-      'doosan.png',
-      'hankook.png',
-      'jung.png',
-      'kcs.png',
-      'lifeplus.png',
-      'lifeplus.png',
-      'armypedia.png',
-      'doosanemerging.png',
-      'doosaninfra.png',
-      'doosan.png',
-      'hankook.png',
-      'jung.png',
-      'kcs.png',
-      'lifeplus.png',
-      'armypedia.png',
-      'doosanemerging.png',
-      'doosaninfra.png',
-      'doosan.png',
-      'hankook.png',
-      'jung.png',
-      'kcs.png',
-      'lifeplus.png',
-    ] 
-
-    console.log(t.sphereGeometry,'spher')
-    // var geometry = new THREE.Geometry();
-    
-    //   geometry.vertices.push(
-    //     new THREE.Vector2( 0.0625,  1 ),
-    //   );
-
-
-    //create sphere mesh
-    t.sphereGeometry = new THREE.SphereGeometry(
         1, // radius -- default 1
         25, // widthSegments -- default 8
         13, // heightSegments -- default 6
@@ -181,8 +32,8 @@ export default class Sphere{
     t.geometry = new THREE.SphereGeometry(1, 8, 6);
 
     t.loader = new THREE.TextureLoader;
-    //t.loader.crossOrigin = '';
-    //t.loader.setPath( '/img/work/' );
+    t.loader.crossOrigin = '';
+    t.loader.setPath( '/img/work/' );
 
     t.sphereMesh = new THREE.Mesh(
         t.sphereGeometry,
@@ -355,22 +206,22 @@ export default class Sphere{
   }
 
   initLights(){
-    this.lights = []
-    this.lights[ 0 ] = new THREE.PointLight( 0xffffff, 1, 0 )
-    this.lights[ 1 ] = new THREE.PointLight( 0xffffff, 1, 0 )
-    this.lights[ 2 ] = new THREE.PointLight( 0xffffff, 1, 0 )
-    
-    this.lights[ 0 ].position.set( 0, 200, 0 )
-    this.lights[ 1 ].position.set( 100, 200, 100 )
-    this.lights[ 2 ].position.set( - 100, - 200, - 100 )
-    
-    this.scene.add( this.lights[ 0 ] )
-    this.scene.add( this.lights[ 1 ] )
-    this.scene.add( this.lights[ 2 ] )
+    this.lights = [];
+    this.lights[ 0 ] = new THREE.PointLight( 0xffffff, 1, 0 );
+    this.lights[ 1 ] = new THREE.PointLight( 0xffffff, 1, 0 );
+    this.lights[ 2 ] = new THREE.PointLight( 0xffffff, 1, 0 );
+
+    this.lights[ 0 ].position.set( 0, 200, 0 );
+    this.lights[ 1 ].position.set( 100, 200, 100 );
+    this.lights[ 2 ].position.set( - 100, - 200, - 100 );
+
+    this.scene.add( this.lights[ 0 ] );
+    this.scene.add( this.lights[ 1 ] );
+    this.scene.add( this.lights[ 2 ] );
   }
 
   //프레임마다 실행
   update(time){
-    this.sphereMesh.rotation.y += 0.001
+    this.sphereMesh.rotation.y += 0.001;
   }
 }
