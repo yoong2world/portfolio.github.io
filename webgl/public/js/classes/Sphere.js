@@ -181,8 +181,8 @@ export default class Sphere{
     t.geometry = new THREE.SphereGeometry(1, 8, 6);
 
     t.loader = new THREE.TextureLoader;
-    t.loader.crossOrigin = '';
-    t.loader.setPath( '/img/work/' );
+    //t.loader.crossOrigin = '';
+    //t.loader.setPath( '/img/work/' );
 
     t.sphereMesh = new THREE.Mesh(
         t.sphereGeometry,

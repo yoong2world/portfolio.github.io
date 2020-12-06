@@ -1,4 +1,4 @@
-import anime from '../vendor/anime.es.js';
+import anime from '//yoong2world.github.io/ydy/webgl/public/js/vendor/anime.es.js';
 
 export function fadeElement({toggle, element, duration}){
   if(toggle == 'in'){
