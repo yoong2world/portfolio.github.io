@@ -1,0 +1,19 @@
+body {
+  overflow:hidden;
+  background: #000;
+}
+
+#bg {
+  position: fixed;
+  z-index: -1;
+  top: 0;
+  left: 0;
+  opacity: 0.2;
+}
+
+.section {
+  position: relative;
+  max-width:$container;
+  margin:0 auto;
+  padding: 0 $gutter;
+}

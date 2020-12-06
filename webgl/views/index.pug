@@ -1,0 +1,107 @@
+extends layout
+
+block content
+  #container
+
+  #main
+    
+    section#about.section
+      a.btn_close(href='javascript:;' title='Close')
+        span
+      .popup
+        .contents 
+          .contents_inner
+            h3.title ABOUT
+            .contents_box
+            h4.sub_title 윤다윤
+            p.text.en1
+              span &#149;&nbsp; 나이 : 27세 (1994.3.14)
+              br
+              span &#149;&nbsp; 주소 : 서울시 마포구
+              br
+              span &#149;&nbsp; 전화번호 : 010 5518 0938
+              br
+              span &#149;&nbsp; 이메일 : dbsek0314@gmail.com
+            p.text.info
+              a(href='/img/common/portfolio_yoon.pdf' target='_blank' title='새 탭 열림').btn.outlink 포트폴리오 pdf 보기
+          .contents_inner
+            h3.title WORK
+            h4.sub_title 더즈인터랙티브
+            p.text
+              span &#149;&nbsp; 프론트엔드 개발팀 [대리]
+              br
+              span.en1 &#149;&nbsp; 2018.12.03 ~ 재직중
+              br
+              span.en1.plus
+                | + 프론트엔드 PL - 인삼공사 / NC SOFT / 두산 인프라코어 
+                br
+                | + 공통가이드 작성 및 인터랙션 페이지 작업
+                br
+                | + 크로스 브라우징 및 다양한 기기, 인앱 등 각종 이슈 대응
+                br
+                | + google map, kakao map api 이용한 검색 기능 구현
+                br
+                | + google analytics 사용 경험
+                br
+                | + samsung AEM 사용 경험
+            h4.sub_title KCS
+            p.text
+              span &#149; 연구1팀 웹 파트 [사원]
+              br
+              span.en1 &#149; 2017.11.01 ~ 2019.11.30
+              br
+              span.en1.plus
+                | + 기획 / 디자인 / 퍼블리싱 / 백엔드 1인 작업 경험
+                br
+                | + 펜션 예약 기능 구현
+                br
+                | + 회원가입, 로그인 등 회원 관련 기능 구현
+                br
+                | + 게시판 기능 구현
+          .contents_inner
+            h3.title SKILL
+            h4.sub_title FRONT-END
+            p.text.en1
+              | HTML5 / JSP / PUG 
+              br
+              | CSS3 / SCSS / Bootstrap
+              br
+              | Javascript / jQuery 
+              br
+              | webGL (THREE.js) / canvas / svg
+            h4.sub_title BACK-END
+            p.text.en1
+              | PHP / mySQL
+              br
+              | JAVA / AJAX
+            h4.sub_title ETC
+            p.text.en1
+              | GitHub / GitLab / SVN
+              br
+              | Google map api / Kakao map api
+              br
+              | Google Analytics 
+    
+    section#portfolio.section
+      h2.title PORTFOLIO
+        .title_sm PORTFOLIO
+      .contents
+        .item
+          img.js-image(src="/img/work/doosan.png" alt="doosan")
+          h2 DOOSAN
+          p 햐햐햐햐ㅑ햐햐.
+        .item
+          img.js-image(src="/img/work/doosan.png" alt="doosan")
+          h2 DOOSAN
+          p 햐햐햐햐ㅑ햐햐.
+        .item
+          img.js-image(src="/img/work/doosan.png" alt="doosan")
+          h2 DOOSAN
+          p 햐햐햐햐ㅑ햐햐.
+
+block scripts
+  script(src='https://code.jquery.com/jquery-3.5.1.min.js')
+  script(src='/js/vendor/gsap.min.js')
+  script(src='/js/vendor/jquery.nicescroll.min.js')
+  script(src='https://cdnjs.cloudflare.com/ajax/libs/stats.js/r11/Stats.min.js')
+  script(src='/js/index.js' type='module')

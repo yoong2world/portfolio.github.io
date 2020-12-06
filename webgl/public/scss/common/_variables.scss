@@ -1,0 +1,20 @@
+
+$break-point-tablet : 1023px;
+$break-point-mobile : 767px;
+
+$font-kr : 'Noto Sans KR', sans-serif;
+$font-en : 'Montserrat', sans-serif;
+
+$container: 1200px;
+$container-sm: 1000px;
+$gutter: 9.8vw;
+
+.clear {
+  *zoom: 1;
+
+  &:after {
+    content: '';
+    display: block;
+    clear: both;
+  }
+}
