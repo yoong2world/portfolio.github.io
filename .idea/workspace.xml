@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="6d9c9ea0-39ca-42d2-90b4-f557f06d2176" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/portfolio/index.html" afterPath="$PROJECT_DIR$/portfolio/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="ydy.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -28,8 +27,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/portfolio/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.3726741">
-              <caret line="170" column="66" selection-start-line="170" selection-start-column="66" selection-end-line="170" selection-end-column="66" />
+            <state vertical-scroll-proportion="0.53854334">
+              <caret line="108" column="48" selection-start-line="108" selection-start-column="48" selection-end-line="108" selection-end-column="48" />
               <folding>
                 <element signature="n#div#3;n#div#0;n#section#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
               </folding>
@@ -266,12 +265,12 @@
       <workItem from="1607267431166" duration="27000" />
       <workItem from="1607269907939" duration="24000" />
       <workItem from="1607270476538" duration="2130000" />
-      <workItem from="1612010686343" duration="1043000" />
+      <workItem from="1612010686343" duration="1085000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4607000" />
+    <option name="totallyTimeSpent" value="4649000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="-11" width="3862" height="2122" extended-state="6" />
@@ -527,8 +526,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/portfolio/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3726741">
-          <caret line="170" column="66" selection-start-line="170" selection-start-column="66" selection-end-line="170" selection-end-column="66" />
+        <state vertical-scroll-proportion="0.53854334">
+          <caret line="108" column="48" selection-start-line="108" selection-start-column="48" selection-end-line="108" selection-end-column="48" />
           <folding>
             <element signature="n#div#3;n#div#0;n#section#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
