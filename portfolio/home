@@ -1,0 +1,18 @@
+[
+    {
+        id: 1,
+        img: 'asdf.jpg',
+        category: 'Travel',
+        title: '하와이 와이키키에서 <br />서핑 마스터하기',
+        like: true,
+        add: true,
+    },
+    {
+        id: 2,
+        img: 'asdf.jpg',
+        category: 'Travel',
+        title: '하와이 와이키키에서 <br />서핑 마스터하기',
+        like: true,
+        add: true,
+    }
+]
