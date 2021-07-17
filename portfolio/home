@@ -2,15 +2,36 @@
   {
     "id": 1,
     "category": "Travel",
-    "Title": "하와이 와이키키에서 <br />서핑 마스터하기",
-    "lide": false,
+    "title": "하와이 와이키키에서 <br />서핑 마스터하기",
+    "like": false,
     "add": true
   },
   {
     "id": 2,
-    "category": "Travel",
-    "Title": "하와이 와이키키에서 <br />서핑 마스터하기",
-    "lide": true,
+    "category": "Food",
+    "title": "맛있는거 많이 먹기",
+    "like": true,
+    "add": false
+  },
+  {
+    "id": 3,
+    "category": "Sports",
+    "title": "수영 등록하기",
+    "like": true,
+    "add": false
+  },
+  {
+    "id": 4,
+    "category": "Shopping",
+    "title": "사고싶은거 다사기",
+    "like": true,
+    "add": false
+  },
+  {
+    "id": 5,
+    "category": "Culture",
+    "title": "놀러다니기",
+    "like": true,
     "add": false
   }
 ]
