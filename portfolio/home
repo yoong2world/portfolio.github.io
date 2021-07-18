@@ -1,6 +1,7 @@
 [
   {
     "id": 1,
+    "img": "i0001_thumb.jpg",
     "category": "Travel",
     "title": "하와이 와이키키에서 <br />서핑 마스터하기",
     "like": false,
@@ -8,6 +9,7 @@
   },
   {
     "id": 2,
+    "img": "i0002_thumb.jpg",
     "category": "Food",
     "title": "맛있는거 많이 먹기",
     "like": true,
@@ -15,6 +17,7 @@
   },
   {
     "id": 3,
+    "img": "i0003_thumb.jpg",
     "category": "Sports",
     "title": "수영 등록하기",
     "like": true,
@@ -22,6 +25,7 @@
   },
   {
     "id": 4,
+    "img": "i0004_thumb.jpg",
     "category": "Shopping",
     "title": "사고싶은거 다사기",
     "like": true,
@@ -29,6 +33,7 @@
   },
   {
     "id": 5,
+    "img": "i0005_thumb.jpg",
     "category": "Culture",
     "title": "놀러다니기",
     "like": true,
